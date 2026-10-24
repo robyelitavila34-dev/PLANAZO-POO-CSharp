@@ -1,0 +1,14 @@
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.AssemblyInfoInputs.cache
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.AssemblyInfo.cs
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.csproj.CoreCompileInputs.cache
+C:\Users\robye\Downloads\PLANAZO\bin\Debug\net8.0\PLANAZO.exe
+C:\Users\robye\Downloads\PLANAZO\bin\Debug\net8.0\PLANAZO.deps.json
+C:\Users\robye\Downloads\PLANAZO\bin\Debug\net8.0\PLANAZO.runtimeconfig.json
+C:\Users\robye\Downloads\PLANAZO\bin\Debug\net8.0\PLANAZO.dll
+C:\Users\robye\Downloads\PLANAZO\bin\Debug\net8.0\PLANAZO.pdb
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.dll
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\refint\PLANAZO.dll
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.pdb
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\PLANAZO.genruntimeconfig.cache
+C:\Users\robye\Downloads\PLANAZO\obj\Debug\net8.0\ref\PLANAZO.dll
